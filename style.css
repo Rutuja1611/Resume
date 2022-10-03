@@ -1,0 +1,47 @@
+
+.container{
+    margin-top: 2rem;
+    height: 260vh;
+    background-color: grey;
+    width: 45rem;
+    margin-bottom: 2rem;
+}
+.img1{
+    margin-top: 2rem;
+    height: 10rem;
+    width: 10rem;
+    transform: rotate(-33deg);
+    border: 3px solid rgba(255, 255, 255, 0.562);
+}
+.first_section{
+    background-color: #004c85;
+    height: 260vh;
+}
+.line{
+    height: 2px;
+    width: 7rem;
+    background-color: rgb(30, 61, 90);
+   
+}
+.line1{
+    height: 3px;
+    width: 7rem;
+    background-color:  rgb(30, 61, 90);
+}
+.first_section li{
+    font-weight: 5;
+    font-family: 'Roboto';
+    font-size: 0.8rem;
+}
+.education p{
+    font-size: 0.8rem;
+}
+.line2{
+    height: 2px;
+    width: 5rem;
+    background-color:  rgb(30, 61, 90);
+}
+.content1{
+    font-size: 0.8rem;
+    font-family: 'Roboto';
+}
